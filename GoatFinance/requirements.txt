@@ -1,0 +1,13 @@
+uvicorn
+fastapi
+pyJWT
+psycopg2-binary
+psycopg
+asyncpg
+sqlalchemy
+bcrypt
+starlette
+pydantic==2.6.1
+python-dotenv
+pycryptodome
+pydantic[email]
